@@ -1,0 +1,45 @@
+{
+  "intents":
+  [
+    {
+      "tag": "exit",
+      "patterns": ["stop", "exit", "quit", "log off"]
+    },
+
+    {
+      "tag": "Joke",
+      "patterns": ["joke", "funny", "amusing"]
+    },
+
+    {
+      "tag": "wiki",
+      "patterns": ["Wikipedia", "Wiki"]
+    },
+
+    {
+      "tag": "mail",
+      "patterns": ["email", "letter","mail"]
+    },
+
+    {
+      "tag": "spotify",
+      "patterns": ["spotify", "music"]
+    },
+
+    {
+      "tag": "google",
+      "patterns": ["google", "internet"]
+    },
+
+    {
+      "tag": "weather",
+      "patterns": ["weather", "cold outside"]
+    },
+
+    {
+      "tag": "youtube",
+      "patterns": ["youtube"]
+    }
+
+  ]
+}
